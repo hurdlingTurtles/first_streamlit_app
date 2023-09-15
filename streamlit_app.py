@@ -1,7 +1,5 @@
 import streamlit
 
-streamlit.text("Hello from Snowflake:")
-streamlit.text(my_data_row)
 streamlit.title('My Parents New Healthy Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
